@@ -42,6 +42,7 @@ section {
   text-transform: uppercase;
   font-size: 32px;
   font-weight: normal;
+  margin-bottom: 10px;
 }
 
 .card-subtitle {
@@ -51,6 +52,10 @@ section {
 
 .card-image {
   height: 180px;
+}
+
+p {
+  margin-bottom: 10px;
 }
 
 @keyframes bounce {
